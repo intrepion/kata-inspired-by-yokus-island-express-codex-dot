@@ -17,3 +17,7 @@ Run `node tests/game.test.js` for movement, both flippers, collectible uniquenes
 ## License
 
 MIT; see [LICENSE](LICENSE). The `.gitignore` combines GitHub's Global Linux, macOS and Windows templates.
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
