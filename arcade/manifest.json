@@ -4,45 +4,45 @@
   "playUrl": "https://intrepion.github.io/kata-inspired-by-yokus-island-express-codex-dot/",
   "screenshots": [
     {
-      "path": "arcade/screenshots/ci-20261102-01.jpg",
-      "sha256": "e386b55c5044e81dbe096a991b27d07181a52222d1a2139fa7a918dc79f87de4",
-      "alt": "Lantern Tide gameplay, view 1",
+      "path": "arcade/screenshots/review-20261103-01.jpg",
+      "sha256": "b5b90731997253b30434bde44369b8d1e56beca65251ed10b2f18d803abbad40",
+      "alt": "Lantern Tide gameplay after the mechanics update, view 1",
       "provenance": {
         "kind": "ci_gameplay_capture",
-        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
-        "sourceSha256": "9fbc4e41229e8db8bbdd4139f58c3913241be196f3e65dc3666679e697bd41de",
-        "captureCommit": "067b75fe717cc7383e3c399eccc9ec491e265234",
-        "workflowRunId": "41381735253",
+        "sourcePath": "arcade/capture-evidence/review-20261103-01.png",
+        "sourceSha256": "559d060f9da7bf34645c83f80698e810f01aeb4d2fa1fca1d51d720ba963842f",
+        "captureCommit": "4ba2825ebfb3592123f138510b8d398a1f7eeee6",
+        "workflowRunId": "41675573649",
         "inputHashes": {
           "index.html": "63f7a91ad2157c0b62031ff19551a81c623dadc5e3823bf1ec24209b29ab52b5",
           "style.css": "6d6a65350eecfaed39eb03ef275e99141ecbd132f0179b1086cc3aa4bd638a98",
-          "engine.js": "d4d18c604336d93c58fdd2091d60648f7b25700b3db9c4336b28d3469bef7633",
-          "game.js": "49603358b1f67a1314eb8243a1ab24ab96f89865d3e8559916129bb905f04ab8"
+          "game.js": "2a9823d5e3f56edf92eb109e8775d4c7337c1601270615197461204639d179d4",
+          "engine.js": "70bc8c91995872825632a066060a215529818a7bd30cc7f1132947936d87aaff"
         },
-        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
-        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
-        "captureRecordSha256": "da98e75d47c21dfccdcafacad1658ae2ac86008b044da257eeadf207105aa257"
+        "publishedFilesVerifiedAt": "2026-11-03T16:39:41Z",
+        "captureRecordPath": "arcade/capture-evidence/review-20261103-record.json",
+        "captureRecordSha256": "e7abb436fb281f01e368832e6e2f852e4e6904f83d2b28fa000cd8b1c7afcc8f"
       }
     },
     {
-      "path": "arcade/screenshots/ci-20261102-02.jpg",
-      "sha256": "6bf59c27a055aa346a45ac793bf225bb380594bc70e6e1848366eade47b200a1",
-      "alt": "Lantern Tide gameplay, view 2",
+      "path": "arcade/screenshots/review-20261103-02.jpg",
+      "sha256": "a97c5da1524881c8515c325d5370fcd79b080236500f06a17ef9aa4725e7539a",
+      "alt": "Lantern Tide gameplay after the mechanics update, view 2",
       "provenance": {
         "kind": "ci_gameplay_capture",
-        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
-        "sourceSha256": "5ec0224d06323738f64df258ee99d4cf9524a1be6b3870caf9bef4c694fd8a60",
-        "captureCommit": "067b75fe717cc7383e3c399eccc9ec491e265234",
-        "workflowRunId": "41381735253",
+        "sourcePath": "arcade/capture-evidence/review-20261103-02.png",
+        "sourceSha256": "3048ce1aff1bc37fbe643a7473a57c712fc399f580a96fb0ccd49677ed8a6a03",
+        "captureCommit": "4ba2825ebfb3592123f138510b8d398a1f7eeee6",
+        "workflowRunId": "41675573649",
         "inputHashes": {
           "index.html": "63f7a91ad2157c0b62031ff19551a81c623dadc5e3823bf1ec24209b29ab52b5",
           "style.css": "6d6a65350eecfaed39eb03ef275e99141ecbd132f0179b1086cc3aa4bd638a98",
-          "engine.js": "d4d18c604336d93c58fdd2091d60648f7b25700b3db9c4336b28d3469bef7633",
-          "game.js": "49603358b1f67a1314eb8243a1ab24ab96f89865d3e8559916129bb905f04ab8"
+          "game.js": "2a9823d5e3f56edf92eb109e8775d4c7337c1601270615197461204639d179d4",
+          "engine.js": "70bc8c91995872825632a066060a215529818a7bd30cc7f1132947936d87aaff"
         },
-        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
-        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
-        "captureRecordSha256": "da98e75d47c21dfccdcafacad1658ae2ac86008b044da257eeadf207105aa257"
+        "publishedFilesVerifiedAt": "2026-11-03T16:39:41Z",
+        "captureRecordPath": "arcade/capture-evidence/review-20261103-record.json",
+        "captureRecordSha256": "e7abb436fb281f01e368832e6e2f852e4e6904f83d2b28fa000cd8b1c7afcc8f"
       }
     }
   ]
