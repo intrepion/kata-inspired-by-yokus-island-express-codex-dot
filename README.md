@@ -1,5 +1,7 @@
 # Lantern Tide
 
+[Play Lantern Tide](https://intrepion.github.io/kata-inspired-by-yokus-island-express-codex-dot/) · [Kata Arcade](https://intrepion.github.io/)
+
 A small original side-view pinball adventure inspired by *Yoku's Island Express*. Roll a tethered ball through one connected island, collect fruit, light three lanterns and deliver a seed to the lighthouse. Original code and canvas artwork; this fan project is not affiliated with Villa Gorilla or Team17.
 
 ## Play locally
